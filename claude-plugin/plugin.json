@@ -1,0 +1,20 @@
+
+{
+  "name": "emil-design-skills",
+  "version": "1.0.0",
+  "description": "Design engineering and frontend skills covering UI polish, animation, performance, and mobile-native development.",
+  "author": {
+    "name": "Emil Kowalski"
+  },
+  "homepage": "https://github.com/emilkowalski/skills",
+  "repository": "https://github.com/osa822630-droid/skills",
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "frontend",
+    "animation",
+    "ui",
+    "ux",
+    "performance"
+  ]
+}
